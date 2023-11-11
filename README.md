@@ -1,6 +1,6 @@
 # Project Overview
 
-This repository highlights my work. It contains three main folders, each dedicated to a specific area of study:
+This repository highlights some of my projects. It contains three main folders, each dedicated to a specific area of study:
 
 ## 1. Deep Learning with Python and PyTorch
 In the Deep Learning folder, you'll find various neural network models implemented using PyTorch. This includes:
